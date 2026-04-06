@@ -6,29 +6,27 @@ A simple and responsive **Currency Converter Web App** that allows users to conv
 
 ## 🚀 Features
 
-* 🔄 Convert between multiple currencies
-* 🌍 Supports real-time exchange rates
-* 🏳️ Country flags for better UI
-* ⚡ Instant conversion on selection change
-* ❌ Prevents invalid inputs
-* 📱 Responsive design
+- 🔄 Convert between multiple currencies
+- 🌍 Supports real-time exchange rates
+- 🏳️ Country flags for better UI
+- ⚡ Instant conversion on selection change
+- ❌ Prevents invalid inputs
+- 📱 Responsive design
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **HTML5**
-* **CSS3**
-* **JavaScript (Vanilla JS)**
-* Currency API (fawazahmed0)
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla JS)**
+- Currency API (fawazahmed0)
 
 ---
 
 ## 📸 Screenshots
 
-> Add your screenshots here
-> Example:
-> ![App Screenshot](screenshot.png)![alt text](image.png)
+> (image.png)
 
 ---
 
@@ -47,23 +45,22 @@ A simple and responsive **Currency Converter Web App** that allows users to conv
    ```
 
 3. Run the project:
-
-   * Open `index.html` in your browser
+   - Open `index.html` in your browser
 
 ---
 
 ## 🌐 API Used
 
-* https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api
+- https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api
 
 ---
 
 ## ✨ Future Improvements
 
-* 🔁 Add currency swap button
-* 📊 Add historical data charts
-* ⚛️ Convert to React / Next.js
-* 🌙 Dark mode support
+- 🔁 Add currency swap button
+- 📊 Add historical data charts
+- ⚛️ Convert to React / Next.js
+- 🌙 Dark mode support
 
 ---
 
@@ -83,7 +80,7 @@ This project is open-source and available under the MIT License.
 
 **Subhajit (CarExpert)**
 
-* GitHub: https://github.com/CarExpert-Subhajit
+- GitHub: https://github.com/CarExpert-Subhajit
 
 ---
 
