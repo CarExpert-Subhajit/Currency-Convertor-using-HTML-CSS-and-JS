@@ -25,9 +25,7 @@ A simple and responsive **Currency Converter Web App** that allows users to conv
 ---
 
 ## 📸 Screenshots
-
-> ![App Screenshot](SS.png)
-
+![App Screenshot](SS.jpg)
 ---
 
 ## ⚙️ How to Run Locally
